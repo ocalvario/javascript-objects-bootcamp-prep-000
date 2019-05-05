@@ -1,4 +1,4 @@
-var playlist = { Wagner: "Die Walkyrie", Mozart: "Magic Flute"}
+var playlist = { artistName: "songTitle" }
 
 function updatePlaylist (playlist, artistName, songTitle) {
   playlist[artistName] = 'songTitle';
